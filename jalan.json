@@ -1,0 +1,20 @@
+{
+  "daftar_jalan": [
+    {
+      "id": "3fa6Z2CHrTrnXVeAlaQM",
+      "nama": "BAKSO BULE JL TJILIK RIWUT KM. 26",
+      "wilayah": "KECAMATAN CEMPAGA HULU",
+      "alamat": "Pantai Harapan, Kec. Cempaga Hulu, Kotim",
+      "lat": -1.9357216,
+      "lon": 113.2148383
+    },
+    {
+      "id": "jalan_umum",
+      "nama": "Jalan Tjilik Riwut Km 1",
+      "wilayah": "Jekan Raya",
+      "alamat": "Nama Jalan / Lokasi Lokal",
+      "lat": -2.2012,
+      "lon": 113.8945
+    }
+  ]
+}
