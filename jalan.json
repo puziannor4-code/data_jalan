@@ -1,5 +1,5 @@
 {
-  "data_version": 102,
+  "data_version": 103,
   "update_message": "Pembaruan sistem: Penambahan lokasi resmi Jasa Titipku dan penyesuaian tarif ongkir otomatis.",
   
   "config_wilayah": [
@@ -69,6 +69,14 @@
       "alamat": "4842+FQM, Hampalit, Kec. Katingan Hilir, Kabupaten Katingan, Kalimantan Tengah 74413, Indonesia",
       "lat": -1.8937397,
       "lon": 113.3021377
+    },
+    {
+  "id_wilayah": "kalsel",
+  "nama_display": "Kalimantan Selatan",
+  "lat_pusat": -3.316694, 
+  "lon_pusat": 114.590111,
+  "km_gratis": 5,
+  "biaya_per_km": 2000
     }
   ]
 }
