@@ -1,5 +1,5 @@
 {
-  "data_version": 101,
+  "data_version": 102,
   "update_message": "Pembaruan sistem: Penambahan lokasi resmi Jasa Titipku dan penyesuaian tarif ongkir otomatis.",
   
   "config_wilayah": [
@@ -13,7 +13,7 @@
     },
     {
       "id_wilayah": "tengah",
-      "nama_display": "Katingan Tengah",
+      "nama_display": "samba",
       "lat_pusat": -1.5833,
       "lon_pusat": 113.3833,
       "km_gratis": 3,
