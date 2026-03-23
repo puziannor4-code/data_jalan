@@ -12,11 +12,11 @@
       "biaya_per_km": 2000
     },
     {
-      "id_wilayah": "tengah",
-      "nama_display": "samba",
-      "lat_pusat": -1.5833,
-      "lon_pusat": 113.3833,
-      "km_gratis": 3,
+      "id_wilayah": "kalimantan tengah",
+      "nama_display": "kota palangkaraya",
+      "lat_pusat": -2.214534,
+      "lon_pusat": 113.920455,
+      "km_gratis": 1,
       "biaya_per_km": 2500
     },
     {
