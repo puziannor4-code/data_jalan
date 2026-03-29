@@ -17,6 +17,14 @@
       "lon_pusat": 113.920455,
       "km_gratis": 1,
       "biaya_per_km": 2500
+    },
+{
+      "id_wilayah": "kalteng",
+      "nama_display": "Kota Kapuas",
+      "lat_pusat": -3.007897,
+      "lon_pusat": 114.387004,
+      "km_gratis": 1,
+      "biaya_per_km": 2500
     }
   ],
   "daftar_jalan": [
